@@ -1,0 +1,10 @@
+README.md
+setup.py
+webscraper/__init__.py
+webscraper/scraper.py
+webscraper.egg-info/PKG-INFO
+webscraper.egg-info/SOURCES.txt
+webscraper.egg-info/dependency_links.txt
+webscraper.egg-info/entry_points.txt
+webscraper.egg-info/requires.txt
+webscraper.egg-info/top_level.txt
