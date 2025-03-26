@@ -1,4 +1,4 @@
-# WebScraper
+# WebScraper (broken)
 
 A comprehensive web scraper that extracts various types of information from websites, including:
 - Email addresses
